@@ -1,4 +1,4 @@
-<form method='post' action='' enctype='multipart/form-data'>
+asdf<form method='post' action='' enctype='multipart/form-data'>
   <input type='file' name='imagefile' id="imagefile">
   <input type='submit' value='Upload' name='upload'> 
 </form>
